@@ -13,4 +13,4 @@ This project implements a few sample web pages using MDB 5.
 
 |       | Material-UI | MDB 5 |
 |-------|-------------|-------|
-| Album | [live](https://material-ui.com/getting-started/templates/album/) | [source](album.html) |
+| Album | [live](https://material-ui.com/getting-started/templates/album/) | [live](https://cybersamx.github.io/material-html/album.html) / [source](album.html) |
