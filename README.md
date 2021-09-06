@@ -11,6 +11,7 @@ Played with the aforementioned frameworks and found MDB 5 to be the most versati
 
 This project implements a few sample web pages using MDB 5.
 
-|       | Material-UI | MDB 5 |
-|-------|-------------|-------|
-| Album | [live](https://material-ui.com/getting-started/templates/album/) | [live](https://cybersamx.github.io/material-html/album.html) / [source](album.html) |
+|         | Material-UI | MDB 5 |
+|---------|-------------|-------|
+| Album   | [live](https://material-ui.com/getting-started/templates/album/) | [live](https://cybersamx.github.io/material-html/album.html) / [source](album.html) |
+| Sign-In | [live](https://material-ui.com/getting-started/templates/sign-in/) | [live]() / [source](sign-in.html) |
