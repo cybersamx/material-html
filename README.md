@@ -24,3 +24,5 @@ Played with all the above frameworks and found MDB5 (Material Design for Bootstr
 | Album         | [live](https://material-ui.com/getting-started/templates/album/) | [live](https://cybersamx.github.io/web-toolkits/mdb5/album.html) / [source](mdb5/album.html) | |
 | Sign-In       | [live](https://material-ui.com/getting-started/templates/signin/) | [live](https://cybersamx.github.io/web-toolkits/mdb5/signin.html) / [source](mdb5/signin.html) | [live](https://cybersamx.github.io/web-toolkits/bootstrap/signin.html) / [source](bootstrap/signin.html) |
 | Admin Console |             |       | [live](https://cybersamx.github.io/web-toolkits/bootstrap/console.html) / [source](bootstrap/console.html) |
+| Modal         |             |       | [live](https://cybersamx.github.io/web-toolkits/bootstrap/modal.html) / [source](bootstrap/modal.html) |
+
