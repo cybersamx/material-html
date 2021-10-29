@@ -2,11 +2,21 @@
 
 The motivation of this project is to use plain vanilla HTML, Javascript, and CSS with the help of web toolkits like Bootstrap to build websites and web applications.
 
-## Bootstrap
+## Javascript
+
+The project will try to minimize additional third-party Javascript framework (with the notable exception of Bootstrap) in the interest of making the project as vanilla as possible.
+
+ES6 is widely supported in modern web browsers - see [ES6 compatibility table](https://kangax.github.io/compat-table/). We will be using ES6 Javascript in this project.
+
+## Web Toolkit
+
+We all want our websites/applications to look and function well. It's just impractical to do everything from scratch. So it makes sense to use a web toolkit like Bootstrap for a web project even if the website/application is intended to be simple.
+
+### Bootstrap
 
 Most of the examples in this project is based on [Bootstrap 5](https://getbootstrap.com/).
 
-## Material HTML
+### Material HTML
 
 Material Design is an awesome project provides many great looking UI. On React, there's a well-implemented library that provides great support for incorporating Material Design look and feel in a React project.
 
@@ -27,4 +37,5 @@ Played with all the above frameworks and found MDB5 (Material Design for Bootstr
 | Sign-In       | [live](https://material-ui.com/getting-started/templates/signin/) | [live](https://cybersamx.github.io/web-toolkits/mdb5/signin.html) / [source](mdb5/signin.html) | [live](https://cybersamx.github.io/web-toolkits/bootstrap/signin.html) / [source](bootstrap/signin.html) |
 | Admin Console |             |       | [live](https://cybersamx.github.io/web-toolkits/bootstrap/console.html) / [source](bootstrap/console.html) |
 | Modal         |             |       | [live](https://cybersamx.github.io/web-toolkits/bootstrap/modal.html) / [source](bootstrap/modal.html) |
+| Form Validation |           |       | [live](https://cybersamx.github.io/web-toolkits/bootstrap/form.html) / [source](bootstrap/form.html) |
 
