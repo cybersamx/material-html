@@ -87,9 +87,9 @@
     return ret;
   }
 
-  const form = document.querySelector('form#demo');
-
   (function () {
+    const form = document.querySelector('form#demo');
+
     form.addEventListener('submit', function (event) {
       event.preventDefault();
       if (!checkValidity()) {

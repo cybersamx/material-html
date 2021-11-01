@@ -58,3 +58,15 @@ body {
   font-size: .75rem;
   text-transform: uppercase;
 }
+
+/* Navbar */
+
+.nav-avatar {
+  width: 32px;
+  height: 32px;
+}
+
+.nav-avatar-dropdown {
+  border-style: hidden;
+  background-color: transparent;
+}
